@@ -1,0 +1,14 @@
+{
+"companyName": "Xmas.Ball.Alexandra",
+"productName": "AKTO, Game Design, BGAME1, Alexandra Mavroeidakou",
+"dataUrl": "N_AlexGame.data.unityweb",
+"wasmCodeUrl": "N_AlexGame.wasm.code.unityweb",
+"wasmFrameworkUrl": "N_AlexGame.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "N_AlexGame.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
